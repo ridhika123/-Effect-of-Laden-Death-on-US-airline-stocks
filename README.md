@@ -9,12 +9,14 @@ The 9/11 attacks shocked the world and the stock market negatively. We hypothesi
 
 ## Code
 #### Osama Bin Laden's Death
-* [prepping_yahoo_data 911](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/prepping_yahoo_data%20911.do): Prepping combined airlines data using FF3FM model. 
-* [single_event_construct_ff3fm_coefficients 911](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_construct_ff3fm_coefficients%20911.do): Constructing the coefficients.
-* [single_event_graphical_analysis 911](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_graphical_analysis%20911.do): Graphical analysis of effect of 9/11 on stock prices of three US airlines.
-* [single_event_regression_analysis 911](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_regression_analysis%20911.do): Regression analysis of effect of 9/11 on stock prices of three US airlines.
+* Data used: [911_LUV], [911_SKYW], [911_ALK], [911_southwest_2], [911_skywest_2], [911_alaska_2].
+* [prepping_yahoo_data](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/prepping_yahoo_data.do): Prepping combined airlines data using FF3FM model. 
+* [single_event_construct_ff3fm_coefficients](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_construct_ff3fm_coefficients.do): Constructing the coefficients.
+* [single_event_graphical_analysis](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_graphical_analysis.do): Graphical analysis of effect of Osama Bin Laden's death on stock prices of nine US airlines.
+* [single_event_regression_analysis](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_regression_analysis.do): Regression analysis of effect of Osama Bin Laden's death on stock prices of nine US airlines.
 
 #### 9/11 
+* Data used: [911_LUV], [911_SKYW], [911_ALK], [911_southwest_2], [911_skywest_2], [911_alaska_2].
 * [prepping_yahoo_data 911](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/prepping_yahoo_data%20911.do): Prepping combined airlines data using FF3FM model.
 * [single_event_construct_ff3fm_coefficients 911](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_construct_ff3fm_coefficients%20911.do): Constructing the coefficients.
 * [single_event_graphical_analysis 911](https://github.com/ridhika123/Effect-of-Laden-s-Death-on-US-airline-stocks/blob/main/single_event_graphical_analysis%20911.do): Graphical analysis of effect of 9/11 on stock prices of three US airlines.
